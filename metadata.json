@@ -1,0 +1,6 @@
+{
+  "name": "Gmail Inbox Auto-Cleaner",
+  "description": "Automated Gmail cleaner that removes Spam, Promotions, Social, Updates, and specific sender emails older than 14 days, generating weekly audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
